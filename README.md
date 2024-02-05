@@ -8,4 +8,4 @@ Benvinguts al meu repostori de Python
 
 ## Activitat Bateries (Bateria 1)
 
-[Problema 1](hello_world.py)
+[Problema 1](bateria1.py)
