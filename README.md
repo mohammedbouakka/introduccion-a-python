@@ -12,4 +12,4 @@ Benvinguts al meu repostori de Python
 [Problema 2](Bateria2.py)
 [Problema 3](Bateria3.py)
 [Problema 4](Bateria4.py)
-[Problema 5](bateria1.py)
+[Problema 5](Bateria5.py)
