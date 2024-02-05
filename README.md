@@ -8,8 +8,8 @@ Benvinguts al meu repostori de Python
 
 ## Activitat Bateries (Bateria 1)
 
-[Problema 1](bateria1.py)
-[Problema 2](Bateria2.py)
-[Problema 3](Bateria3.py)
-[Problema 4](Bateria4.py)
-[Problema 5](Bateria5.py)
+- [Problema 1](bateria1.py)
+- [Problema 2](Bateria2.py)
+- [Problema 3](Bateria3.py)
+- [Problema 4](Bateria4.py)
+- [Problema 5](Bateria5.py)
