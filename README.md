@@ -20,4 +20,4 @@ Benvinguts al meu repostori de Python
 - [Problema 2](bateria2.py)
 - [Problema 3](bateria3.py)
 - [Problema 4](bateria4.py)
-- [Problema 5](Bateria5.py)
+- [Problema 5](bateria5.py)
